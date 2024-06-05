@@ -1,5 +1,5 @@
 html {
-  margin: 20px;
+  margin: 30px;
 }
 
 body {
@@ -9,8 +9,9 @@ body {
   color:rgb(0, 0, 0) 
 }
 
-head {
+strong {
   color: rgb(0, 0, 0);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 1.90em;
+  font-family:'Times New Roman', serif;
+  font-size: 1.50em;
+  background-color: rgb(238, 105, 105);
 }
